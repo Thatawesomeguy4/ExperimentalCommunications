@@ -18,7 +18,7 @@
         <Label Content="Password:" HorizontalAlignment="Left" Margin="315,215,0,0" VerticalAlignment="Top"/>
         <PasswordBox HorizontalAlignment="Center" Margin="0,241,0,0" VerticalAlignment="Top" Width="370" Height="24"/>
         <Button Content="Log In" HorizontalAlignment="Center" Margin="0,283,0,0" VerticalAlignment="Top" Width="108"/>
-        <Button Content="Create Account" HorizontalAlignment="Center" Margin="0,318,0,0" VerticalAlignment="Top" Width="108"/>
+        <Button Content="Create Account" HorizontalAlignment="Center" Margin="0,318,0,0" VerticalAlignment="Top" Width="108" Click="Button_Click"/>
 
     </Grid>
 </Page>

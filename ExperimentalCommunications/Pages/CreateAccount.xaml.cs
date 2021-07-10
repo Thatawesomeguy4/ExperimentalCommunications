@@ -14,18 +14,13 @@ using System.Windows.Shapes;
 namespace ExperimentalCommunications.Pages
 {
     /// <summary>
-    /// Interaction logic for LogInPage.xaml
+    /// Interaction logic for CreateAccount.xaml
     /// </summary>
-    public partial class LogInPage : Page
+    public partial class CreateAccount : Page
     {
-        public LogInPage()
+        public CreateAccount()
         {
             InitializeComponent();
-        }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-
         }
     }
 }
